@@ -1,0 +1,2 @@
+# Up366TeacherPasswordSweeper
+自动移除天学网的强制更改密码请求
